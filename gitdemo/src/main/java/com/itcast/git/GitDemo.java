@@ -11,6 +11,7 @@ public class GitDemo {
         int i=11;
         int b=22;
         int d=444;
+        int c=333;
     }
 
 }
