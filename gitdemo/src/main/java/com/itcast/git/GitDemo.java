@@ -10,6 +10,7 @@ public class GitDemo {
     public void setMethod(){
         int i=11;
         int b=22;
+        int c=333;
     }
 
 }
