@@ -7,4 +7,8 @@ public class GitDemo {
         System.out.println("上传文件");
     }
 
+    public void setMethod(){
+        int i=11;
+    }
+
 }
